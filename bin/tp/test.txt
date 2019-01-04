@@ -1,0 +1,110 @@
+[DebutPoint [x=21, y=36]]à  [FinPoint [x=21, y=37]]
+[DebutPoint [x=32, y=47]]à  [FinPoint [x=44, y=47]]
+Rond [r=47, p=Point [x=13, y=43]]
+CARRE[getPointBasGauche()=Point [x=20, y=1], getPointBasDroit()=Point [x=22, y=1], getPointHautGauche()=Point [x=20, y=3], getPointHautDroit()=Point [x=22, y=3]]
+[DebutPoint [x=43, y=24]]à  [FinPoint [x=43, y=31]]
+Rond [r=39, p=Point [x=47, y=49]]
+[DebutPoint [x=48, y=18]]à  [FinPoint [x=48, y=29]]
+CARRE[getPointBasGauche()=Point [x=11, y=23], getPointBasDroit()=Point [x=28, y=23], getPointHautGauche()=Point [x=11, y=40], getPointHautDroit()=Point [x=28, y=40]]
+Rond [r=42, p=Point [x=4, y=15]]
+RECT[pointBasGauche=Point [x=1, y=12], pointBasDroit=Point [x=41, y=12], pointHautGauche=Point [x=1, y=29], pointHautDroit=Point [x=41, y=29]]
+[DebutPoint [x=8, y=10]]à  [FinPoint [x=18, y=10]]
+CARRE[getPointBasGauche()=Point [x=23, y=4], getPointBasDroit()=Point [x=34, y=4], getPointHautGauche()=Point [x=23, y=15], getPointHautDroit()=Point [x=34, y=15]]
+Rond [r=44, p=Point [x=0, y=8]]
+RECT[pointBasGauche=Point [x=30, y=17], pointBasDroit=Point [x=43, y=17], pointHautGauche=Point [x=30, y=41], pointHautDroit=Point [x=43, y=41]]
+Rond [r=9, p=Point [x=7, y=27]]
+Rond [r=29, p=Point [x=3, y=33]]
+Rond [r=19, p=Point [x=6, y=2]]
+Rond [r=31, p=Point [x=42, y=14]]
+[DebutPoint [x=10, y=23]]à  [FinPoint [x=10, y=26]]
+Rond [r=30, p=Point [x=47, y=16]]
+Rond [r=17, p=Point [x=9, y=8]]
+[DebutPoint [x=26, y=43]]à  [FinPoint [x=30, y=43]]
+CARRE[getPointBasGauche()=Point [x=14, y=18], getPointBasDroit()=Point [x=36, y=18], getPointHautGauche()=Point [x=14, y=40], getPointHautDroit()=Point [x=36, y=40]]
+[DebutPoint [x=21, y=4]]à  [FinPoint [x=41, y=4]]
+RECT[pointBasGauche=Point [x=19, y=30], pointBasDroit=Point [x=42, y=30], pointHautGauche=Point [x=19, y=36], pointHautDroit=Point [x=42, y=36]]
+[DebutPoint [x=41, y=15]]à  [FinPoint [x=41, y=26]]
+Rond [r=45, p=Point [x=5, y=45]]
+CARRE[getPointBasGauche()=Point [x=1, y=26], getPointBasDroit()=Point [x=22, y=26], getPointHautGauche()=Point [x=1, y=47], getPointHautDroit()=Point [x=22, y=47]]
+[DebutPoint [x=27, y=19]]à  [FinPoint [x=27, y=38]]
+Rond [r=9, p=Point [x=22, y=0]]
+RECT[pointBasGauche=Point [x=1, y=8], pointBasDroit=Point [x=32, y=8], pointHautGauche=Point [x=1, y=27], pointHautDroit=Point [x=32, y=27]]
+RECT[pointBasGauche=Point [x=15, y=29], pointBasDroit=Point [x=41, y=29], pointHautGauche=Point [x=15, y=45], pointHautDroit=Point [x=41, y=45]]
+Rond [r=3, p=Point [x=27, y=33]]
+Rond [r=13, p=Point [x=40, y=8]]
+Rond [r=28, p=Point [x=15, y=5]]
+RECT[pointBasGauche=Point [x=4, y=30], pointBasDroit=Point [x=42, y=30], pointHautGauche=Point [x=4, y=44], pointHautDroit=Point [x=42, y=44]]
+Rond [r=46, p=Point [x=46, y=23]]
+Rond [r=24, p=Point [x=40, y=2]]
+CARRE[getPointBasGauche()=Point [x=19, y=9], getPointBasDroit()=Point [x=23, y=9], getPointHautGauche()=Point [x=19, y=13], getPointHautDroit()=Point [x=23, y=13]]
+Rond [r=20, p=Point [x=49, y=31]]
+CARRE[getPointBasGauche()=Point [x=30, y=9], getPointBasDroit()=Point [x=40, y=9], getPointHautGauche()=Point [x=30, y=19], getPointHautDroit()=Point [x=40, y=19]]
+Rond [r=19, p=Point [x=0, y=22]]
+Rond [r=28, p=Point [x=40, y=36]]
+RECT[pointBasGauche=Point [x=35, y=8], pointBasDroit=Point [x=43, y=8], pointHautGauche=Point [x=35, y=35], pointHautDroit=Point [x=43, y=35]]
+Rond [r=35, p=Point [x=48, y=24]]
+Rond [r=41, p=Point [x=4, y=31]]
+[DebutPoint [x=9, y=2]]à  [FinPoint [x=47, y=2]]
+Rond [r=37, p=Point [x=11, y=49]]
+Rond [r=16, p=Point [x=49, y=30]]
+Rond [r=8, p=Point [x=1, y=35]]
+Rond [r=1, p=Point [x=35, y=1]]
+CARRE[getPointBasGauche()=Point [x=30, y=25], getPointBasDroit()=Point [x=34, y=25], getPointHautGauche()=Point [x=30, y=29], getPointHautDroit()=Point [x=34, y=29]]
+Rond [r=24, p=Point [x=23, y=3]]
+[DebutPoint [x=2, y=15]]à  [FinPoint [x=2, y=36]]
+RECT[pointBasGauche=Point [x=12, y=10], pointBasDroit=Point [x=18, y=10], pointHautGauche=Point [x=12, y=43], pointHautDroit=Point [x=18, y=43]]
+Rond [r=20, p=Point [x=23, y=48]]
+[DebutPoint [x=26, y=41]]à  [FinPoint [x=38, y=41]]
+=================================================================
+                      V                            
+                    R R            B               
+      R  N                              B      N   
+                    R RB                           
+                     V V          V      V         
+               N                                   
+                                                   
+                                                   
+RB       B                      B  J    R  J       
+                   R   R      J         J          
+        J   B     B                                
+                                                   
+ V                                       V         
+                   R   R                           
+                                          N        
+  V V                  V          V      J         
+                                               J   
+                              J            J       
+              N                     N           R  
+                           R  J         J          
+                                                   
+                                                   
+J                                                  
+          RB                B                 J    
+                                           B    J  
+                              V   V                
+ B        R           B                  J         
+ B     V                        B                  
+                                                   
+ V             J              V   V      J      R  
+    R              N                      R      V 
+    R                                      B     N 
+                                                   
+   R                       B                       
+                                                   
+ R                                 J       J       
+  V                N V                  V N        
+                     V                             
+                           R                       
+                                                   
+           B  N             B       N              
+                          J   J       J    J       
+                                                   
+            BN    B       N   N                    
+    R                                     R        
+     N         J                         J         
+                                                   
+ B                    B         V           V      
+                       V                           
+           N                                   N   
+                                                   
+
