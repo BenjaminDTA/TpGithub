@@ -6,6 +6,7 @@ public class Carre extends Rectangle {
 		super(point, x, x);
 		couleur = Couleur.getCouleurDefault();
 	}
+	//blablabla
 
 	public Carre(Point point, int x, Couleur couleur) {
 		this(point, x);
